@@ -1,3 +1,6 @@
+/*
+* @copyright Vasista Ayyagari, 2020
+*/
 #include <gtest/gtest.h>
 
 TEST(dummy, should_pass) {
